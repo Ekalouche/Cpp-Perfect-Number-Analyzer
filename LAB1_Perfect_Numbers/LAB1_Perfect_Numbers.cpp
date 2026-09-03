@@ -19,8 +19,13 @@ int main(int argc, char* argv[])
 
         if (IsPerfect(lcv))
         {
-            cout << lcv << "\n";
+            cout << lcv << " Is Perfect \n";
         }
+
+        //if (IsWeird(lcv))
+        //{
+            //cout << lcv << " Is Weird \n";
+        //}
     }
 
     cout << "         \r";
