@@ -22,10 +22,10 @@ int main(int argc, char* argv[])
             cout << lcv << " Is Perfect \n";
         }
 
-        //if (IsWeird(lcv))
-        //{
-            //cout << lcv << " Is Weird \n";
-        //}
+        if (IsWeird(lcv))
+        {
+            cout << lcv << " Is Weird \n";
+        }
     }
 
     cout << "         \r";

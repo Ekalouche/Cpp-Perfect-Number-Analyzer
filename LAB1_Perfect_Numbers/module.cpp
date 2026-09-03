@@ -36,28 +36,33 @@ bool IsPerfect(long int num)
     return sum == num;
 }
 
-/*
+
 bool IsWeird(long int num)
 {
     int sum = 0;
-    vector<int> factors;
+    int factorT = 0;
+    int factor[100];
 
     for (int icv = 1; icv < num; icv++)
     {
         if ((num % icv) == 0)
         {
-            factors.push_back(icv);
+            factor[icv];
+            factorT++;
         }
     }
 
-    for (int icv = 1; icv < num; icv++)
+    for (int icv = 1; icv <= factorT; icv++)
     {
-        if ()
-        {
-            factors.push_back(icv);
-        }
+       sum = factor[icv];
     }
-
-    return sum <= num;
+    
+    if (sum > num)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
 }
-*/
