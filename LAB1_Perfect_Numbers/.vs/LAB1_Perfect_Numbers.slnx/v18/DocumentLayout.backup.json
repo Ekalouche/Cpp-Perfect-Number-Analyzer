@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB1_Perfect_Numbers.cpp",
+              "DocumentMoniker": "D:\\EBKComp2\\Com2_Lab1\\LAB1_Perfect_Numbers\\LAB1_Perfect_Numbers.cpp",
+              "RelativeDocumentMoniker": "LAB1_Perfect_Numbers.cpp",
+              "ToolTip": "D:\\EBKComp2\\Com2_Lab1\\LAB1_Perfect_Numbers\\LAB1_Perfect_Numbers.cpp",
+              "RelativeToolTip": "LAB1_Perfect_Numbers.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-03T03:04:35.368Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -45,22 +58,9 @@
               "RelativeDocumentMoniker": "module.cpp",
               "ToolTip": "D:\\EBKComp2\\Com2_Lab1\\LAB1_Perfect_Numbers\\module.cpp",
               "RelativeToolTip": "module.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-03T03:29:45.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LAB1_Perfect_Numbers.cpp",
-              "DocumentMoniker": "D:\\EBKComp2\\Com2_Lab1\\LAB1_Perfect_Numbers\\LAB1_Perfect_Numbers.cpp",
-              "RelativeDocumentMoniker": "LAB1_Perfect_Numbers.cpp",
-              "ToolTip": "D:\\EBKComp2\\Com2_Lab1\\LAB1_Perfect_Numbers\\LAB1_Perfect_Numbers.cpp",
-              "RelativeToolTip": "LAB1_Perfect_Numbers.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-03T03:04:35.368Z",
               "EditorCaption": ""
             }
           ]
